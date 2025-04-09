@@ -1,0 +1,36 @@
+=====COMPARING: Backup [players.pkl] from [ 2024-01-06 10:22:13 ] with GSpreadSheet [ Player Pokemons ] at [ 2024-01-06 10:25:00 ]=====
+Backup items missing from Spreadsheet: 0
+
+Backup items modified from Spreadsheet: 0
+
+Extra items in Spreadsheet: 0
+Values checked: 38
+Total differences: 0
+
+=====COMPARING: Backup [wildpokemon.pkl] from [ 2024-01-06 10:22:13 ] with GSpreadSheet [ Wild Spawns ] at [ 2024-01-06 10:25:00 ]=====
+Backup items missing from Spreadsheet: 0
+
+Backup items modified from Spreadsheet: 0
+
+Extra items in Spreadsheet: 0
+Values checked: 90
+Total differences: 0
+
+=====COMPARING: Backup [npcs.pkl] from [ 2024-01-06 10:22:13 ] with GSpreadSheet [ NPCs ] at [ 2024-01-06 10:25:00 ]=====
+Backup items missing from Spreadsheet: 0
+
+Backup items modified from Spreadsheet: 0
+
+Extra items in Spreadsheet: 0
+Values checked: 77
+Total differences: 0
+
+=====COMPARING: Backup [gen4.pkl] from [ 2024-01-06 10:22:13 ] with GSpreadSheet [ Gym Leaders ] at [ 2024-01-06 10:25:00 ]=====
+Backup items missing from Spreadsheet: 0
+
+Backup items modified from Spreadsheet: 0
+
+Extra items in Spreadsheet: 0
+Values checked: 3
+Total differences: 0
+

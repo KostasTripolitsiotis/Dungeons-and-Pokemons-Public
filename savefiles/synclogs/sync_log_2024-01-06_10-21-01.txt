@@ -1,0 +1,39 @@
+=====COMPARING: Backup [players.pkl] from [ 2024-01-06 10:10:14 ] with GSpreadSheet [ Player Pokemons ] at [ 2024-01-06 10:21:01 ]=====
+Backup items missing from Spreadsheet: 0
+
+Backup items modified from Spreadsheet: 0
+
+Extra items in Spreadsheet: 0
+Values checked: 38
+Total differences: 0
+
+=====COMPARING: Backup [wildpokemon.pkl] from [ 2024-01-06 10:10:14 ] with GSpreadSheet [ Wild Spawns ] at [ 2024-01-06 10:21:01 ]=====
+Backup items missing from Spreadsheet: 0
+
+Backup items modified from Spreadsheet: 0
+
+Extra items in Spreadsheet: 0
+Values checked: 90
+Total differences: 0
+
+=====COMPARING: Backup [npcs.pkl] from [ 2024-01-06 10:10:14 ] with GSpreadSheet [ NPCs ] at [ 2024-01-06 10:21:01 ]=====
+Backup items missing from Spreadsheet: 0
+
+Backup items modified from Spreadsheet: 0
+
+Extra items in Spreadsheet: 0
+Values checked: 77
+Total differences: 0
+
+=====COMPARING: Backup [gen4.pkl] from [ 2024-01-06 10:10:14 ] with GSpreadSheet [ Gym Leaders ] at [ 2024-01-06 10:21:01 ]=====
+Backup items missing from Spreadsheet: 0
+
+Backup items modified from Spreadsheet: 0
+
+Extra items in Spreadsheet: 3
+[ Gardenia | Turtwig | 696821 | Grass | — | Overgrow | Careful | Female | 20 | 17 | 18 | 19 | 19 | 10 | 53 | 14 | 14 | 30 | Stealth Rock | Rock Status | — | —% | 20 | Sunny Day | Fire Status | — | —% | 5 | Reflect | Phychic Status | — | —% | 20 | Superpower | Fighting Physical | 120 | 100% | 5 |]
+[ Gardenia | Cherrim | 791231 | Grass | — | Flower Gift | Naive | Female | 19 | 23 | 20 | 18 | 20 | 21 | 55 | 14 | 15 | 30 | Growth | Normal Status | — | —% | 20 | Solar Blade | Grass Physical | 125 | 100% | 10 | Play Rough | Fairy Physical | 90 | 90% | 10 | Weather Ball | Normal Special | 50 | 100% | 10 |]
+[ Gardenia | Roserade | 771571 | Grass | Poison | Poison Point | Timid | Male | 13 | 25 | 21 | 25 | 21 | 27 | 61 | 17 | 15 | 35 | Stun Spore | Grass Status | — | —% | 20 | Sludge Bomb | Poison Physical | 90 | 100% | 10 | Magical Leaf | Grass Special | 60 | —% | 20 | Giga Drain | Grass Special | 75 | 100% | 10 |]
+Values checked: 3
+Total differences: 3
+

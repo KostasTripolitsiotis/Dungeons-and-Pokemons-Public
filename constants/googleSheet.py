@@ -1,0 +1,107 @@
+#Google Sheet Columns
+class SheetColumn:
+    DEXID = 0
+    NAME = 1
+    TYPE1 = 2
+    TYPE2 = 3
+    AB1 = 4
+    AB2 = 5
+    AB3 = 6
+    MALE = 7
+    FEMALE = 8
+    EGRP1 = 9
+    EGRP2 = 10
+    BASE_HP = 13
+    BASE_ATK = 14
+    BASE_DEF = 15
+    BASE_SPA = 16
+    BASE_SPD = 17
+    BASE_SPE = 18
+    
+class SheetColumnCampain:
+    TRAINER = 'A'
+    NAME = 'B'
+    ID = 'C'
+    TYPE1 = 'D'
+    TYPE2 = 'E'
+    AB = 'F'
+    NATURE = 'G'
+    GENDER = 'H'
+    STR = 'I'
+    DEX = 'J'
+    CON = 'K'
+    INT = 'L'
+    WIS = 'M'
+    CHA = 'N'
+    HP = 'O'
+    SAC = 'P'
+    PAC = 'Q'
+    LEVEL = 'R'
+    MOVE1 = 'S'
+    MTYPE1 = 'T'
+    POWER1 = 'Y'
+    ACC1 = 'V'
+    PP1 = 'W'
+    MOVE2 = 'X'
+    MTYPE2 = 'Y'
+    POWER2 = 'Z'
+    ACC2 = 'AA'
+    PP2 = 'AB'
+    MOVE3 = 'AC'
+    MTYPE3 = 'AD'
+    POWER3 = 'AE'
+    ACC3 = 'AF'
+    PP3 = 'AG'
+    MOVE4 = 'AH'
+    MTYPE4 = 'AI'
+    POWER4 = 'AJ'
+    ACC4 = 'AK'
+    PP4 = 'AL'
+    
+class SheetColumnCampainNum:
+    TRAINER = 0
+    NAME = 1
+    ID = 2
+    TYPE1 = 3
+    TYPE2 = 4
+    AB = 5
+    NATURE = 6
+    GENDER = 7
+    STR = 8
+    DEX = 9
+    CON = 10
+    INT = 11
+    WIS = 12
+    CHA = 13
+    HP = 14
+    SAC = 15
+    PAC = 16
+    LEVEL = 17
+    MOVE1 = 18
+    MTYPE1 = 19
+    POWER1 = 20
+    ACC1 = 21
+    PP1 = 22
+    MOVE2 = 23
+    MTYPE2 = 24
+    POWER2 = 25
+    ACC2 = 26
+    PP2 = 27
+    MOVE3 = 28
+    MTYPE3 = 29
+    POWER3 = 30
+    ACC3 = 31
+    PP3 = 32
+    MOVE4 = 33
+    MTYPE4 = 34
+    POWER4 = 35
+    ACC4 = 36
+    PP4 = 37
+
+# Worksheets
+class SheetName:
+    PLAYERS = 'Player Pokemons'
+    NPCS = 'NPCs'
+    WILDSPAWNS = 'Wild Spawns'
+    GYMLEADERS = 'Gym Leaders'
+    TEST = "Test"
